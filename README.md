@@ -1,11 +1,10 @@
 # 💫 About Me:
 
-Hi MICHAEL Here👋
-
+## Hi MICHAEL Here👋
 - An AWS Cloud & Devops Engineer
 - I build and deploy cloud infrastructure on AWS, automate deployments using CI/CD pipelines, and manage Linux-based servers for web applications
 
-SKILLS
+## SKILLS
 - Cloud Platforms: AWS (EC2, S3, IAM), Azure
 - CI/CD Pipelines: Git & GitHub Actions
 - Infrastructure as Code: Terraform
@@ -16,7 +15,7 @@ SKILLS
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/michael-anim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:animmichael806@gmail.com) 
 
 # 💻 Tech Stack:
