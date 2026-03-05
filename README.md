@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-## Hi MICHAEL Here👋
+## Hi, MICHAEL Here👋
 - An AWS Cloud & Devops Engineer
 - I build and deploy cloud infrastructure on AWS, automate deployments using CI/CD pipelines, and manage Linux-based servers for web applications
 
