@@ -4,7 +4,7 @@
 - An AWS Cloud & Devops Engineer
 - I build and deploy cloud infrastructure on AWS, automate deployments using CI/CD pipelines, and manage Linux-based servers for web applications
 
-## SKILLS
+## 🛠️ SKILLS
 - Cloud Platforms: AWS (EC2, S3, IAM), Azure
 - CI/CD Pipelines: Git & GitHub Actions
 - Infrastructure as Code: Terraform
